@@ -1,4 +1,7 @@
-theme: minima
-title: Test Blog
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+theme: Midnight
+title: Simple Blog
 author: Kenny Nguyen
-description: This is a test setup of github pages for a possible blog
+description: Just a Simple blog about some things I've toyed with
