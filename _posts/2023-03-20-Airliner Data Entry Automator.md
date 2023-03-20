@@ -39,7 +39,7 @@ The general workflow for getting meal order counts on the system worked as such:
 
 Within a day I would have been expected to go about this around 200-300 times. Now to be a little more specific, inside the flight, the meal order page would look something like this:
 
-![Example meal order page](/blogBoi/assets/images/MealChecker.png)
+![Example meal order page](/blogBoi/docs/assets/images/MealChecker.png)
 
 ## Fast Tallies
 
@@ -47,7 +47,7 @@ This is a small snippet but effectively a flight could have upwards of hundreds 
 
 To speed up this step I used some of my knowledge making chrome extensions I was able to make a simple extension that would detect that it was on the flight meal order page and simply tally the numbers, saving time and effort from asking the main server to generate reports.
 
-![Example fast tallies](/blogBoi/assets/images/FastTallies.png)
+![Example fast tallies](/blogBoi/docs/assets/images/FastTallies.png)
 
 It looked rough but since this was my second day at the job I wanted it to work to save myself time. I was also able to share this with my peers within the office to help speed up their roles.
 
@@ -69,7 +69,7 @@ At this point in the automater all the functionality that I wanted of it was don
 
 Usability of the automater was abysmal, presently all input/output to the user was done through the command line, not really user friendly these days even if it was working. So for V2 I focused in on getting a usable GUI.
 
-![Example of the GUI](/blogBoi/assets/images/CXPAutomaterGUI.png)
+![Example of the GUI](/blogBoi/docs/assets/images/CXPAutomaterGUI.png)
 
 Now, I won't fluff this up, I am NOT an front end programmer, making it pretty was 100% not my priority, and it shows. This is actually a picture of the final GUI, the inital one was literally just raw HTML with buttons and no CSS. But at the end of the day, the functionality worked.
 
