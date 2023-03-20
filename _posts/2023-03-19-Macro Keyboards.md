@@ -64,6 +64,7 @@ For my own build of this mechanical keyboard I had to
 
 7. Cross my fingers my solder job was sufficient
 
+
 ![StreamCheap Enhanced](/blogboi/assets/images/StreamcheapEnhanced.jpg)
 
 ## Extra Notes
@@ -77,6 +78,7 @@ As for the buttons, 4 of the buttons send commands to my audio manager to change
 2 of the buttons also correspond with Windows Virtual Desktop + Right/Left, I got so used to using VDs at one of my previous jobs on a Macbook Pro that its nice having dedicated buttons for them.
 
 ## Other Macro Pad
+
 
 ![Other MacroPad](/blogboi/assets/images/OtherMacroPad.jpg)
 
