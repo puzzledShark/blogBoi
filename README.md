@@ -4,6 +4,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
+# Link to pages
+[Pages Link](https://puzzledshark.github.io/blogBoi/)
+
 
 # GitHub Pages
 
