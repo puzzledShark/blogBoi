@@ -13,7 +13,7 @@ TL:DR - Effectively its a input device that can execute commands on a computer, 
 ## Why?
 
 A macro keyboard can simpify actions you do on a daily basis by distilling the command into its very own button. One comical example of this would be the 3 button "stack overflow" macro keyboard.
-![Image of a 3 button macro keyboard, the 3 buttons being: A stack overflow icon, a capitialized C, and a capitialized V.](/puzzledShark/blogBoi/assets/images/copypaste.jpg)
+![Image of a 3 button macro keyboard, the 3 buttons being: A stack overflow icon, a capitialized C, and a capitialized V.](/blogBoi/assets/images/copypaste.jpg)
 
 Assuming this is keyboard is connected within a windows environment the stackoverflow button could be macroed up to open up a web browser via win+r, then typing in firefox.exe and so forth.
 C and V could be macroed to do ctrl+c / v as well.
@@ -23,10 +23,10 @@ These are basic things a macro keyboard can do. Although you may scoff at macroi
 ## The initial Build
 
 Starting out, the functionality of a macro keyboard can be emulated with software quite easily, one such software is AutoHotKey and although this is definitely a solution, its not as elegant as I would like. Thus when I sought out to make my own macro keyboard I started simple. Theres numerous designs for macro keyboards on the web, the first one I went with goes by the name [Stream Cheap (Mini Macro Keyboard)](https://www.thingiverse.com/thing:2822140)
-![Image of stream Cheap](/puzzledShark/blogBoi/assets/images/Streamcheap.jpg)
+![Image of stream Cheap](/blogBoi/assets/images/Streamcheap.jpg)
 
 A relatively elagant design, 8 buttons, handwired into a Pro Micro Arduino and programmed with simple arduino code.
-![Image of my own streamcheap](/puzzledShark/blogBoi/assets/images/StreamcheapOwn.jpg)
+![Image of my own streamcheap](/blogBoi/assets/images/StreamcheapOwn.jpg)
 
 Above you can see an image of my very own 3d printed stream cheap
 
@@ -65,7 +65,7 @@ For my own build of this mechanical keyboard I had to
 7. Cross my fingers my solder job was sufficient
 
 
-![StreamCheap Enhanced](/puzzledShark/blogBoi/assets/images/StreamcheapEnhanced.jpg)
+![StreamCheap Enhanced](/blogBoi/assets/images/StreamcheapEnhanced.jpg)
 
 ## Extra Notes
 
@@ -80,7 +80,7 @@ As for the buttons, 4 of the buttons send commands to my audio manager to change
 ## Other Macro Pad
 
 
-![Other MacroPad](/puzzledShark/blogBoi/assets/images/OtherMacroPad.jpg)
+![Other MacroPad](/blogBoi/assets/images/OtherMacroPad.jpg)
 
 This other macropad I call it handles all my communication/voip controls, the radial dial controls the volume levels, while the buttons control Mute/Deafen, I haven't gotten around to labelling them properly yet.
 
@@ -89,4 +89,4 @@ This other macropad I call it handles all my communication/voip controls, the ra
 Theres no doubt that I could still make improvements to the design, the software underlying all the macropads actions still use large amounts of abstration that should be fixed/improved, but I persoally feel very content with what I have created. Its a purpose built tool that I made myself that does its job well.
 
 
-![Purple Macropad](/puzzledShark/blogBoi/assets/images/StreamcheapPurple.jpg)
+![Purple Macropad](/blogBoi/assets/images/StreamcheapPurple.jpg)
