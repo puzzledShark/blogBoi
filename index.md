@@ -1,7 +1,8 @@
 ---
 title: Welcome to my dev blog
 ---
-This is where I put my various blogs about some of my personal projects or some overviews of my previous jobs.
+
+Hello! Welcome to my dev blog, this is Kenny Nguyen speaking, I tossed this github pages site up mostly to elaborate on various projects and overviews of previous jobs I held. 
 
 External Links:
 [Github](https://github.com/puzzledShark)
