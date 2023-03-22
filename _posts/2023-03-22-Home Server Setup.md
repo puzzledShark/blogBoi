@@ -6,7 +6,9 @@ date: 2023-03-22
 ## I can talk about this without worrying about getting attacked right? lol
 
 My homelab is made up of a simple structure of:
+
 2 Nas Servers
+
 One Server to handle all the processing
 
 ## Nas Servers
