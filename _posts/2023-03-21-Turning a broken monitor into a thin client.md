@@ -1,11 +1,11 @@
 ---
 title: "Turning a broken monitor into a thin client"
-date: 2023-03-19
+date: 2023-03-21
 ---
 
 ## The Monitor
 
-![Broken Monitor](/blogBoi/docs/assets/images/BrokenMonitor.png)
+![Broken Monitor](/blogBoi/docs/assets/images/BrokenMonitor.jpg)
 
 One of my relatives broke this quite nice Dell 1440p IPS monitor a couple months ago, as you can tell from the image its basically impossible to repair, the cost of a monitor is basically 80-90% on the panel alone. Thus theres no real point in doing a full repair of this monitor, but some sections of the monitor are still quite usable, that top left section and bottom right section are fine.
 
@@ -33,7 +33,7 @@ Pictured is one of my mess ups while playing around with xrandr.
 
 To start off I needed to do some really rough math about what dimensions I'd need to use in xrandr to achieve the results I wanted.
 
-![Anatomy of a broken monitor](/blogBoi/docs/assets/images/brokenDiagram2.jpg)
+![Anatomy of a broken monitor](/blogBoi/docs/assets/images/brokenDiagram2.png)
 
 For this I basically just measured the good portion I wanted to use, and did simple math on the resolution.
 
@@ -62,7 +62,7 @@ the important part about this command is the "transform" portion, essentially af
 
 ## End result
 
-![ThinClient](/blogBoi/docs/assets/images/thinClientDone.jpg)
+![ThinClient](/blogBoi/docs/assets/images/thinclientDone.jpg)
 
 After adding these commands to my startup, and setting up my linux distro to auto login, my thin client is complete. Ignore the graphical bugs, they disappear after a bit.
 
