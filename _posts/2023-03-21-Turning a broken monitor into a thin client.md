@@ -44,6 +44,7 @@ Now that I had the resolution I needed, all that was left was to actually create
 The command I came down to using was:
 
 xrandr --newmode BROKEN 76.50 1088 1144 1256 1424 864 867 877 897 -hsync +vsync
+
 xrandr --addmode HDMI-0 BROKEN
 
 Its somewhat difficult to explain what that does specifically but it basically creates a new mode with resolution 1088 x 864 then adds it to my output device which is my hdmi port on my laptop.
