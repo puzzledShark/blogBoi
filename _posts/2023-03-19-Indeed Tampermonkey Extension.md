@@ -9,7 +9,7 @@ So I'm presently on the job hunt unforunately, so I apply for lots of jobs. For 
 
 For this I presently collect all the information of the job on a google sheet, but copy pasting all that information is a huge waste of time, I considered using google sheets built in =importxml but that function fails when the website has javascript.... which is basically all websites nowadays.
 
-![Indeed information](/blogBoi/assets/images/Indeed1.png)
+![Indeed information](/blogBoi/docs/assets/images/Indeed1.png)
 
 The things I want from the indeed listings are:
 
@@ -48,7 +48,7 @@ All this is a very simple process for a script, the manipulation of the clipboar
 
 I fairly simply created a button, appended it to the page like this:
 
-![Indeed information](/blogBoi/assets/images/Indeed3.png)
+![Indeed information](/blogBoi/docs/assets/images/Indeed3.png)
 
 Added a click action event, extracted all the information, then sent it to the clipboard:
 
@@ -56,7 +56,7 @@ Added a click action event, extracted all the information, then sent it to the c
 
 Pasting this into google sheets gives us:
 
-![Indeed information](/blogBoi/assets/images/Indeed2.png)
+![Indeed information](/blogBoi/docs/assets/images/Indeed2.png)
 
 ## Closing notes
 
