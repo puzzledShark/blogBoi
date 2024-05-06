@@ -85,3 +85,8 @@ Now, you're supposed to just create a mount on the fly for containers, thats the
 
 Well actually there is no conclusion, I'm still working on this.
 So far most of it is working fine, but theres more to do if I want this to be truly modular and secure.
+
+## Github link
+https://github.com/puzzledShark/ansible-homelab-scripts
+
+Thats where I tossed everything, I'm still working on it, but thats where it is
